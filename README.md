@@ -24,7 +24,6 @@ The Up-Fall dataset could be found on https://sites.google.com/up.edu.mx/har-up/
   - dataset/
     - subject1/
     - subject2/
-
     - ....
   - datasets/
     - npz/
