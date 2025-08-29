@@ -1,0 +1,27 @@
+{
+  "ADL": {
+    "precision": 0.375,
+    "recall": 0.125,
+    "f1-score": 0.1875,
+    "support": 24.0
+  },
+  "Fall": {
+    "precision": 0.475,
+    "recall": 0.7916666666666666,
+    "f1-score": 0.59375,
+    "support": 24.0
+  },
+  "accuracy": 0.4583333333333333,
+  "macro avg": {
+    "precision": 0.425,
+    "recall": 0.4583333333333333,
+    "f1-score": 0.390625,
+    "support": 48.0
+  },
+  "weighted avg": {
+    "precision": 0.425,
+    "recall": 0.4583333333333333,
+    "f1-score": 0.390625,
+    "support": 48.0
+  }
+}
