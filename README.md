@@ -10,11 +10,11 @@ The Up-Fall dataset could be found on https://sites.google.com/up.edu.mx/har-up/
 
 * **1. Dataset Preprocessing**
 
-* **2. Model Difinition**
+* **2. Model Definition**
 
 * **3. Training and Evaluation**
 
-* **4. Results VIsualisation**
+* **4. Results Visualisation**
 
 
 ## **Repo Content**
